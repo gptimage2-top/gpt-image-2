@@ -1,0 +1,19 @@
+name: Feature request
+description: Suggest a GPT Image 2 workflow or product improvement.
+title: "[Feature]: "
+labels: ["type: feature", "status: needs triage"]
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: What should GPT Image 2 improve?
+      description: Describe the workflow, prompt use case, or desired output.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why would this help?
+      description: Explain who benefits and how often they would use it.
+    validations:
+      required: true
