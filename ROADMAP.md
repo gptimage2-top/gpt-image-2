@@ -1,21 +1,31 @@
 # GPT Image 2 Public Roadmap
 
-This roadmap describes product areas under active consideration for gptimage2.top. It is not a release commitment.
+This roadmap summarizes product directions we are evaluating or actively improving for [gptimage2.top](https://gptimage2.top). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
-## Current Focus
+## Now
 
 - Keep the product framed around GPT Image generation and editing rather than a generic multi-model portal.
 - Improve clarity around text rendering, realistic scenes, structured layouts, and reference image edits.
-- Keep showcases curated and useful for prompt learning.
-- Maintain a clean migration path toward Vivify for new accounts and broader creative workflows.
+- Make showcase-to-create flows more useful for users who do not want a blank prompt.
+- Keep resolution and credit tradeoffs visible before generation.
 
-## Planned Areas
+## Next
 
-- More prompt examples for ads, infographics, UI mockups, product visuals, and reference edits.
-- Clearer guidance for when to use text-to-image versus image-to-image workflows.
-- Better onboarding for trial credits, pricing, and activity history.
-- Accessibility improvements for creation, showcase browsing, and account pages.
+- Add better prompt examples for ads, product images, posters, cards, and UI drafts.
+- Improve reference-image editing guidance for preserve/change instructions.
+- Clarify limitations around perfect text rendering, identity, copyright, and commercial claims.
+- Refine billing and usage-history feedback for repeat visual production.
 
-## Feedback Wanted
+## Later
 
-Open an issue if a workflow is unclear, an example needs better context, or the site creates the wrong expectation about GPT Image generation behavior.
+- Evaluate reusable visual recipes for common marketing and design tasks.
+- Improve gallery organization by intent, layout, and output type.
+- Document resolution-choice guidance with practical examples.
+- Expand public examples for structured graphics without overstating guarantees.
+
+## Product Principles
+
+- Focused create/edit/showcase flows matter more than broad AI portal positioning.
+- Image-quality claims should avoid guarantees.
+- Reference editing should be described with practical limits.
+- This repository is for public product feedback, not private production source code.
