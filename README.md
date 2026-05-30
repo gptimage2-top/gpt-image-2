@@ -10,6 +10,14 @@ Official public repository for [gptimage2.top](https://gptimage2.top). GPT Image
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
+## Product Preview
+
+![GPT Image 2 homepage](assets/screenshots/homepage.png)
+
+| Create workspace | Showcases |
+| --- | --- |
+| ![GPT Image 2 create workspace](assets/screenshots/create.png) | ![GPT Image 2 showcases](assets/screenshots/showcases.png) |
+
 ## Product Focus
 
 - Creators generating prompt-based visuals for covers, posters, ads, and product pages
