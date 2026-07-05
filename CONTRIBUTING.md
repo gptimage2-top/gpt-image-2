@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve GPT Image 2. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [gptimage2.top](https://gptimage2.top).
+Thanks for helping improve GPT Image 2. This repository is focused on public product feedback, documentation, roadmap discussion, and issue tracking for [GPT Image 2 AI image generator and editor](https://gptimage2.top).
 
 ## Good Contributions
 

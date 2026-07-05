@@ -1,6 +1,6 @@
 # GPT Image 2 Public Roadmap
 
-This roadmap summarizes product directions we are evaluating or actively improving for [gptimage2.top](https://gptimage2.top). It is not a promise of delivery dates, pricing, model access, or final feature scope.
+This roadmap summarizes product directions we are evaluating or actively improving for [GPT Image 2 AI image generator and editor](https://gptimage2.top). It is not a promise of delivery dates, pricing, model access, or final feature scope.
 
 ## Now
 
