@@ -6,7 +6,7 @@
 
 # GPT Image 2
 
-Official public repository for [gptimage2.top](https://gptimage2.top). GPT Image 2 is a focused image generation and reference-image editing workspace for prompts, showcases, structured visuals, and repeat creative production.
+Official public repository for [GPT Image 2 AI image generator and editor](https://gptimage2.top). GPT Image 2 is a focused image generation and reference-image editing workspace for prompts, showcases, structured visuals, and repeat creative production.
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
@@ -47,13 +47,21 @@ This repository is the public home for product feedback, issue reports, roadmap 
 - Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
 - Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
 
-## Official Links
+## Product Feature Links
 
-- Website: [gptimage2.top](https://gptimage2.top)
-- Roadmap: [ROADMAP.md](ROADMAP.md)
-- Support: [SUPPORT.md](SUPPORT.md)
-- Security: [SECURITY.md](SECURITY.md)
+- [GPT Image 2 AI image generator and editor](https://gptimage2.top): Generate and edit images from prompts, references, and repeatable creative briefs.
+- [GPT Image 2 create workspace](https://gptimage2.top/create): Start the prompt and reference-image creation workspace.
 
-## Support
+## Recent Updates
 
-For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email support@gptimage2.top.
+- 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
+- 2026-07: Separated repository, feedback, and support routes from product feature links to avoid duplicate product URLs.
+
+## Repository Links
+
+| Destination | Link |
+| --- | --- |
+| Primary GitHub repository | [GPT Image 2 primary GitHub repository](https://github.com/gptimage2-top/gpt-image-2) |
+| Roadmap | [ROADMAP.md](ROADMAP.md) |
+| Support | [SUPPORT.md](SUPPORT.md) |
+| Security | [SECURITY.md](SECURITY.md) |
