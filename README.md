@@ -52,6 +52,10 @@ This repository is the public home for product feedback, issue reports, roadmap 
 - [GPT Image 2 AI image generator and editor](https://gptimage2.top): Generate and edit images from prompts, references, and repeatable creative briefs.
 - [GPT Image 2 create workspace](https://gptimage2.top/create): Start the prompt and reference-image creation workspace.
 
+## A Reproducible Image Report
+
+Include the creation mode, whether reference images were used, the selected resolution, and the visible output problem. Replace proprietary prompts or customer artwork with a minimal safe example before opening a public issue.
+
 ## Recent Updates
 
 - 2026-07: Reworked README product-entry links so anchor text matches the target page topic and current language.
